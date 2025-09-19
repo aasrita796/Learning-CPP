@@ -24,6 +24,7 @@ int main(){
 //	//duplicate of case values are not allowed in c++ 
 //}
 
+//nested switch case:
 switch(x){
 	case 1:
 		cout << "x is 1";
@@ -37,5 +38,6 @@ switch(x){
 		cout << "x is not 1";
 }
 }
+
 
 
